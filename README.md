@@ -1,0 +1,2 @@
+# KNN-vs-DT
+Classification problems are one of the most common supervised learning tasks.Choice of the classification algorithm to use depends on many factors, one of them being model performance on specific case problems.I have tried to compare the performance of two vastly used classification algorithms(KNN,Decision Tree) by evaluating their performance on classifying a multi-class target variable
